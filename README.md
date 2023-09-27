@@ -1,7 +1,7 @@
-# How to install The Full Version of Nuxt3 with Tailwindcss , Eslint , Pinia 3 , Vitest ( and documentation )  
+## The Full Version of Nuxt3 with Tailwindcss , Eslint , Pinia 3 , Vitest ( and documentation )  
 ![](/banner.png)
-### By : Ouzrour Ilyas
-### Last Update : 15.8.23
+#### By : Ouzrour Ilyas
+#### Last Update : 15.8.23
 
 ---
 
